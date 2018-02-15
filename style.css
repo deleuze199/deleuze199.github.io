@@ -1,6 +1,4 @@
-header, footer {
+header {
    background-color: blue;
+   text-align: center;
   }
-title { 
-       text-align: center;
-      }
