@@ -1,6 +1,21 @@
 body {
       back-ground: #8080ff;
+      width: 800px;
+      margin-left: auto;
+      margin-right: auto;
 }
 #header {
       background-color: #ccffee;
+      tex-align: center; 
 }
+#content {
+      padding: 10px;
+}
+#nav {
+      width: 180px;
+      float: left;
+}
+#main {
+      width: 600px;
+      float: right;
+}      
