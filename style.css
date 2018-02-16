@@ -4,6 +4,9 @@ body {
       margin-left: auto;
       margin-right: auto;
 }
+a {
+      color: green;
+}
 head {
       background-color: #ccffee;
       text-align: center; 
@@ -23,3 +26,9 @@ contact {
       width: 600px;
       float: right;
 }      
+nav.selected {
+      font-weight: bold;
+}
+nav ul {
+      padding: 0;
+}
