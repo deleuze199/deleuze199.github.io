@@ -26,11 +26,13 @@ a {
   }
   #about {
     width: 600px;
+    padding: 10px;
     float: right;
     background-color: white;
   }
   #contact {
     width: 600px;
+    padding: 10px;
     float: right;
     background-color: white;
   }
