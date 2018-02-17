@@ -27,10 +27,12 @@ a {
   #about {
     width: 600px;
     float: right;
+    background-color: white;
   }
   #contact {
     width: 600px;
     float: right;
+    background-color: white;
   }
  #nav selected {
     font-weight: bold;
