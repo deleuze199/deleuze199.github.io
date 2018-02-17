@@ -38,6 +38,7 @@ a {
   }
   #photo-me{
     float: left;
+    margin: 10px;
   }
   
  #nav selected {
