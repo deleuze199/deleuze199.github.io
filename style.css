@@ -36,8 +36,12 @@ a {
     float: right;
     background-color: white;
   }
-  #photo-me{
+  #photo-me1{
     float: left;
+    margin: 10px;
+  }
+  #photo-me2{
+    float: center;
     margin: 10px;
   }
   
