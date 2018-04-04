@@ -36,10 +36,10 @@ a {
     float: right;
     background-color: white;
   }
-#photo-me {
+<!--#photo-me {
    margin-left: auto;
    margin-right: auto;
-}
+}-->
   
  #nav selected {
     font-weight: bold;
