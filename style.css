@@ -25,7 +25,7 @@ svg {
   }
 
 #nav {
-  width: 155px;
+  width: 170px; /* 155 */
   float: left;
   background-color: #602040;
   text-align: center;
@@ -33,21 +33,21 @@ svg {
   }
 
 #about {
-  width: 600px;
+  width: 900px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
   }
 
 #multimedia {
-  width: 600px;
+  width: 900px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
 }
 
 #contact {
-  width: 600px;
+  width: 900px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
