@@ -53,7 +53,7 @@ svg {
   background-color: #FFFFFF;
   }
 
-#nav .selected {
+#nav selected {
   font-weight: bold;
   }
 
