@@ -1,6 +1,6 @@
 body {
   background-color: #b3b3cc;
-  width: 1000px; /* 800 */
+  width: 975px; /* 800 */
   margin-left: auto;
   margin-right: auto;
   font-family: serif, sans-serif;
@@ -33,21 +33,21 @@ svg {
   }
 
 #about {
-  width: 770px; /* 600 */
+  width: 745px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
   }
 
 #multimedia {
-  width: 770px; /* 600 */
+  width: 745px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
 }
 
 #contact {
-  width: 770px; /* 600 */
+  width: 745px; /* 600 */
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
