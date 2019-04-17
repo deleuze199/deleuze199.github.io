@@ -50,7 +50,7 @@ svg {
   width: 745px; /* 600 */
   padding: 10px;
   float: right;
-  background-color: #FFFFFF;
+  background-color: rgb(255,255,255,0.6);
   }
 
 #nav selected {
