@@ -43,8 +43,9 @@ svg {
   width: 745px; /* 600 */
   padding: 10px; /* 10 */
   float: right;
-  background-color: rgb(255,255,255,0.6); /* FFFFFF */
+  background-color: none; /* FFFFFF */
   background-image: url("../WhiteHeader.jpg");
+  background-repeat: repeat-x;
 }
 
 #contact {
