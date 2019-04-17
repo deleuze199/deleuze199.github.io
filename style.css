@@ -1,5 +1,5 @@
 body {
-  background: url("../img/WebsiteBackground.jpg");
+  background-image: url("../WebsiteBackground.jpg");
   width: 975px; /* 800 */
   margin-left: auto;
   margin-right: auto;
