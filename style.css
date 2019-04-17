@@ -41,7 +41,7 @@ svg {
 
 #multimedia {
   width: 745px; /* 600 */
-  padding: 100px;
+  padding: 50px; /*10*/
   float: right;
   background-color: #FFFFFF;
 }
