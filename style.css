@@ -43,14 +43,14 @@ svg {
   width: 745px; /* 600 */
   padding: 20px; /* 10 */
   float: right;
-  background-color: none; /* FFFFFF */
+  background-color: rgb(255,255,255,0.6); /* FFFFFF */
 }
 
 #contact {
   width: 745px; /* 600 */
   padding: 10px;
   float: right;
-  background-color: rgb(255,255,255,0.6);
+  background-color: #FFFFFF;
   }
 
 #nav selected {
