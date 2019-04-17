@@ -29,7 +29,7 @@ svg {
   float: left;
   background-color: #022866;
   text-align: center;
-  color:#ff3030
+  color:#ff3030;
   }
 
 #about {
@@ -44,6 +44,7 @@ svg {
   padding: 10px; /* 10 */
   float: right;
   background-color: rgb(255,255,255,0.6); /* FFFFFF */
+  background-image: url("../WhiteHeader.jpg");
 }
 
 #contact {
