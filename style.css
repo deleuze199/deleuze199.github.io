@@ -43,7 +43,7 @@ svg {
   width: 745px; /* 600 */
   padding: 10px; /* 10 */
   float: right;
-  background-color: none; /* FFFFFF */
+  background-color: transparent; /* FFFFFF */
   background-image: url("../WhiteHeader.jpg");
   background-repeat: repeat-x;
 }
