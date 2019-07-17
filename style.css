@@ -48,6 +48,10 @@ svg {
   background-repeat: repeat-x;*/
 }
 
+#Resume {
+ text-align: center;
+}
+
 #contact {
   width: 745px; /* 600 */
   padding: 10px;
