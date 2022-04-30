@@ -34,6 +34,7 @@ svg {
   }
 
 #about {
+  border-radius: 15px 50px 30px;
   width: 745px; /* 600 */
   padding: 10px;
   float: right;
