@@ -25,6 +25,7 @@ svg {
   }
 
 #nav {
+  border-radius: 15px 50px;
   width: 170px; /* 155 */
   float: left;
   background-color: #022866;
