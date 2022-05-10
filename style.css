@@ -43,6 +43,7 @@ svg {
   }
 
 #multimedia {
+  border-radius: 15px;
   width: 745px; /* 600 */
   padding: 10px; /* 10 */
   float: right;
