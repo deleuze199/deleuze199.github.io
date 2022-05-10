@@ -16,6 +16,7 @@ svg {
   }
 
 #header {
+  border-radius: 15px;
   background-color: #668cff;
   text-align: center;
   }
