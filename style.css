@@ -45,8 +45,7 @@ svg {
 #multimedia {
   border-radius: 15px;
   width: 745px; /* 600 */
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 10px 20px 10px; /* top, right, bottom, left */
   float: right;
   background-color: #FFFFFF; /* transparent */
   /*background-image: url("../WhiteHeader.jpg");
@@ -57,14 +56,12 @@ svg {
   /*width: 125px;
   padding: 10px;
   margin: 0 auto;*/
-  padding-top: 20px;
-  padding-bottom: 20px;
   text-align: center;
 }
 
 #contact {
   width: 745px; /* 600 */
-  padding: 10px;
+  padding: 20px 10px 20px 10px; /* top, right, bottom, left */
   float: right;
   background-color: #FFFFFF;
   }
