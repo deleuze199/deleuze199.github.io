@@ -35,17 +35,19 @@ svg {
   }
 
 #about {
-  border-radius: 15px 50px 30px;
   width: 745px; /* 600 */
+  border-radius: 15px 50px 30px;
   padding: 10px;
   float: right;
   background-color: #FFFFFF;
   }
 
 #multimedia {
-  border-radius: 15px;
   width: 745px; /* 600 */
-  padding: 20px 10px 20px 10px; /* top, right, bottom, left */
+  border-radius: 15px;
+  margin-top: 20px;
+  /* padding: 20px 10px 20px 10px;  top, right, bottom, left */
+  padding: 10px;
   float: right;
   background-color: #FFFFFF; /* transparent */
   /*background-image: url("../WhiteHeader.jpg");
@@ -62,8 +64,9 @@ svg {
 #contact {
   width: 745px; /* 600 */
   border-radius: 15px 15px 0px 0px;
-  margin-top: 50px;
-  padding: 20px 10px 20px 10px; /* top, right, bottom, left */
+  margin-top: 20px;
+  /* padding: 20px 10px 20px 10px;  top, right, bottom, left */
+  padding: 10px;
   float: right;
   background-color: #FFFFFF;
   }
