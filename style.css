@@ -1,5 +1,6 @@
 body {
   background-image: url("../WebsiteBackground.jpg");
+  background-repeat: no-repeat;
   width: 975px; /* 975 */
   margin-left: auto;
   margin-right: auto;
