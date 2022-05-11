@@ -62,7 +62,7 @@ svg {
 #contact {
   width: 745px; /* 600 */
   border-radius: 15px 15px 0px 0px;
-  padding: 200px 10px 200px 10px; /* top, right, bottom, left */
+  padding: 20px 10px 20px 10px; /* top, right, bottom, left */
   float: right;
   background-color: #FFFFFF;
   }
